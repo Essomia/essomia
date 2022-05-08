@@ -2,7 +2,7 @@
 
 ## The 4 Learning Phases
 
-Learning a concept or a tool goes through several phases that may take more or less time. These phases are:
+Learning a concept or a tool goes through several phases that may take more or less time.
 
 - **Awareness:** I know it exists, but I have no knowledge or experience.
 - **Exploration:** I have a functional level that allows me to work effectively, but I don't necessarily understand why or how it works exactly.
@@ -13,7 +13,7 @@ Learning a concept or a tool goes through several phases that may take more or l
 
 ## The 6 layers
 
-Development of an application go through multiple layers between the server that has data and the end-user:
+Development of an application go through multiple layers between the server that has data and the end-user.
 
 - **Interactivity** : Applying interactive features to visual.
 - **Visual** : Applying visual design with semantic.
@@ -21,6 +21,7 @@ Development of an application go through multiple layers between the server that
 - **Browser**: Control caching and interoperability.
 - **API** : Build data structure related to need.
 - **Service** : Server-side application, source of data.
+
 
 
 
@@ -59,6 +60,8 @@ Development of an application go through multiple layers between the server that
 - AJAX / Fetch
 - Asynchronocity (promise / async/await)
 
+#### TypeScript
+
 #### Web APIs
 - Window
 - Location
@@ -71,9 +74,11 @@ Development of an application go through multiple layers between the server that
 - Service Workers
 - Web Notifications
 
-#### TypeScript
-
 #### GraphQL
+
+#### Git
+
+
 
 
 ## Concepts & Patterns
@@ -134,6 +139,7 @@ Development of an application go through multiple layers between the server that
 
 
 
+
 ## Libraries, Frameworks & Tools
 
 #### CSS Framework
@@ -157,6 +163,12 @@ Development of an application go through multiple layers between the server that
 - [Lodash](https://lodash.com/)
 - [Underscore.js](https://underscorejs.org/)
 - [RequireJS](https://requirejs.org/)
+
+#### Template Engine
+- [Handlebars](https://handlebarsjs.com/)
+- [JsRender](https://www.jsviews.com/#jsrender)
+- [mustache](https://mustache.github.io/)
+- [TWIG](https://twig.symfony.com/)
 
 #### JS Framework (Front End)
 - [React](https://reactjs.org/)
