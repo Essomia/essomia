@@ -76,7 +76,6 @@ Development of an application go through multiple layers between the server that
 #### GraphQL
 
 
-
 ## Concepts & Patterns
 
 #### Browser
@@ -93,13 +92,18 @@ Development of an application go through multiple layers between the server that
 - [BEM](http://getbem.com/) (Block, Element, Modifier)
 - [SMACSS](http://smacss.com/) (Scalable and Modular Architecture for CSS)
 
+#### Script Pattern
+- Model View Controller (MVC)
+- Keep It Simple & Stupid (KISS)
+- Don't repeat yourself (DRY)
+- PRPL (Push, Render, Preload, Lazyload)
+- Progressive Enhancement (*feature detection and graceful degradation*)
+
 #### Modular Pattern
 - CommonJS (CJS)
 - ES Modules (ESM)
 - Asynchronous Module Definition (AMD)
 - Universal Module Definition (UMD)
-- PRPL (Push, Render, Preload, Lazyload)
-- Progressive Enhancement (*feature detection and graceful degradation*)
 
 #### Testing Pattern
 - A/B Testing
@@ -128,7 +132,7 @@ Development of an application go through multiple layers between the server that
 - Microservices (*decoupled services from each other*)
 - Composable (*each element works independently*)
 
----
+
 
 ## Libraries, Frameworks & Tools
 
@@ -204,12 +208,8 @@ Development of an application go through multiple layers between the server that
 
 ## Drop Zone Ideas
 
-- PHP / SQL
-- MVC Principles
-- SOLID Principles
+#### Back-End DropZone
+- PHP
+- MySQL
 - Docker
-- Elastic Search
-- Cloudflare
-- Firebase
-- Prisma
 - WASM (Web Assembly)
